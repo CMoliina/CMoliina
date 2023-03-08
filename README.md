@@ -5,9 +5,7 @@
 - :v: My hobbies are boxing (I'm a noob) and spending time with my dog 
 - :smile_cat: I just want to improve my programming skills
 
-
-![TerminatorGIF](https://user-images.githubusercontent.com/82980992/223611747-5e9b9708-62fb-4817-8c80-73cc4f06ba53.gif)
-
+![TmzkaKroosGIF](https://user-images.githubusercontent.com/82980992/223612045-f9848b30-1d92-4507-bbde-24f94c8d3cf0.gif)
 
 <!---
 CamiiMolina/CamiiMolina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
