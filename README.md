@@ -1,6 +1,6 @@
 ### :wave: Hi, I'm Camila Molina
 - :point_right: I speak Spanish (native) and English
-- 👀 I’m interested in everything related to front-end development, but my dream is to become a full-stack developer
+- 👀 I’m interested in everything related to front-end development, but my dream is to become a full-stack developer. I like learning new skills
 - 🌱 I’m currently learning React and Node.js
 - :v: My hobbies are boxing (I'm a noob) and spending time with my dog 
 - :smile_cat: I just want to improve my programming skills
