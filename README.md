@@ -1,5 +1,5 @@
 # :wave: Hi, I'm Camila Molina
-I'm Camila a Software Engineer from Chile and I really enjoy learning languages and frameworks like React and React Native.
+I'm Camila a Software Developer from Chile and I really enjoy learning languages and frameworks like React and React Native.
 
 ## Skills
 - ⚛️ React
