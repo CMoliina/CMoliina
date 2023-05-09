@@ -1,9 +1,10 @@
-### :wave: Hi, I'm Camila Molina
-- :point_right: I speak Spanish (native) and English
-- 👀 I’m interested in everything related to front-end development, but my dream is to become a full-stack developer. I like learning new skills
-- 🌱 I’m currently learning React and Node.js
-- :v: My hobbies are boxing (I'm a noob) and spending time with my dog 
-- :smile_cat: I just want to improve my programming skills
+# :wave: Hi, I'm Camila Molina
+I'm Camila a Software Engineer from Chile and I really enjoy learning languages and frameworks like React and React Native.
+
+## Skills
+- ⚛️ React
+- 📱 React Native
+- 💻 JS - HTML - CSS
 
 ![TmzkaKroosGIF](https://user-images.githubusercontent.com/82980992/223612045-f9848b30-1d92-4507-bbde-24f94c8d3cf0.gif)
 
